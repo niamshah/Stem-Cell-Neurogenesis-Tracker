@@ -14,7 +14,7 @@ The second part of this project identifies the cell axons. The cell bodies are f
 
 
 ### Original Video Frame
-![Original Image](Neurogenesis/iNGNFluoresced.png)
+![Original Image](src/Neurogenesis/iNGNFluoresced.png)
 
 
 
