@@ -16,5 +16,17 @@ The second part of this project identifies the cell axons. The cell bodies are f
 ### Original Video Frame
 ![Original Image](src/Neurogenesis/iNGNFluoresced.png)
 
+### Cell Body ID
+![Cell Bodies](src/Neurogenesis/CellBodyID.png)
+
+### Enhanced Image
+![Enhanced Image](src/Neurogenesis/UnfilteredAxons.png)
+
+### Filtered Axons
+![Filtered Axons](src/Neurogenesis/FilteredAxons.png)
+
+### Final Map
+![Final Map](src/Neurogenesis/CellBodyandAxonsMap.png)
+
 
 
